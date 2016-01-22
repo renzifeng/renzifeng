@@ -10,6 +10,12 @@ author: 任子丰
 email: zifeng1300@gmail.com
 language: zh-Hans
 avatar: http://7xqbzq.com1.z0.glb.clouddn.com/avatar.png #/uploads/avatar.png
+
+# Social links
+social:
+  GitHub: https://github.com/renzifeng
+  Twitter: https://twitter.com/zifeng1300
+  Weibo: http://weibo.com/zifeng1300
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: /
@@ -83,6 +89,7 @@ theme: next
 exclude_generator:
 plugins: 
 - hexo-generator-feed
+since: 2013
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
