@@ -7,6 +7,6 @@ date: 2016-01-22 21:14:09
 
 ## 联系
 
-- 微博 @[任子丰](weibo.com/zifeng1300)
+- 微博 @[任子丰](http://weibo.com/zifeng1300)
 - gitHub: https://github.com/renzifeng
 
